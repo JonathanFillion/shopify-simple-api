@@ -1,7 +1,7 @@
 # README
 
 Simple shop api for the Shopify Summer 2019 Developer Intern Challenge.
-I've never used Ruby on rails yet, so needed a few tutorials to get my setup done correctly.
+I've never used Ruby on rails yet, so needed a few tutorials. Even with those tutorials, I was not able to get the shopping cart part working.
 
 #### Tutorials used :
 1. [Build a restful api with rails 5 with Austin Kabiru ](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)
